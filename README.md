@@ -47,10 +47,10 @@ Deployed using GitHub Pages with an automated deployment workflow.<br>
 
 <b>🎓 Learning Experience : </b><br>
 
-  • Integrating advanced scrolling libraries like Locomotive Scroll with React.
-  • Creating modular components for scalable and reusable UI designs.
-  • Interactive animations and event-based user interactions using GSAP.
-  • Implementing Tailwind CSS for utility-first styling, saving development time.
+  • Integrating advanced scrolling libraries like Locomotive Scroll with React.<br>
+  • Creating modular components for scalable and reusable UI designs.<br>
+  • Interactive animations and event-based user interactions using GSAP.<br>
+  • Implementing Tailwind CSS for utility-first styling, saving development time.<br>
   • Optimizing React apps for performance using tools like Vite.
 
  <b>📝 Conclusion : </b>
